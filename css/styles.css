@@ -1,0 +1,21 @@
+h1  {
+  text-align:center;
+}
+
+.column {
+  float:left;
+  width:32%;
+  margin:2px;
+  border: 2px solid black;
+}
+
+.column img{
+  margin-top:10px;
+  width:100%;
+}
+
+.content{
+  background-color:#8ABFE0;
+  padding-left:5px;
+  padding-right:5px;
+}
